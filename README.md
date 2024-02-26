@@ -1,12 +1,5 @@
 # NOA STUDY ABROAD ASSISTANT (RASA CHATBOT)
 
-_Members:_
-
-| Name (First and Last Name)| Matriculation |
-| ------ | ------ |
-| Don Binoy | 22209158 |
-| Avanish Kumar Singh | 22200727 |
-
 **Project Title: International study abroad chatbot - "Noa"**
 
 GIT LINK : https://mygit.th-deg.de/db30158/project-noa.git
@@ -54,19 +47,3 @@ rasa run actions
 ```
 rasa shell
 ```
-
-## Contributions
-Don Binoy:
-1. Worked on domain, nlu and stories.
-2. Created dialogs and converted it into a flow
-3. Created critical use case and documented it.
-4. Implemented classes in actions for chatbot to reply accordingly.
-5. Created a system and 2 user personas.
-
-Avanish Kumar Singh:
-1. Worked on domain, nlu and stories.
-2. Created dialogs and converted it into a flow.
-3. Created rules for chatbot.
-4. Implemented classes in actions for chatbot to reply accordingly.
-5. Created 1 user personas.
-6. Worked on test stories.
